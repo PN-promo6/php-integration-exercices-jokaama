@@ -34,7 +34,7 @@
         }
         ?>
     </section>
-</body>
+
 </body>
 
 </html>
